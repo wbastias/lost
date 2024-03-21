@@ -1,0 +1,93 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(/img/huellas.jpg);
+}
+
+header{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(15, 228, 199);
+    display: flex;
+}
+
+
+header > div{
+    width: 50%;
+}
+
+.logo {
+    width: 50px;
+    margin: 12px;
+}
+
+.table1{
+    display: flex;
+    justify-content:flex-end;
+    margin-right: 30px;
+    font-family: 'Quicksand';
+    color: rgb(30, 92, 44);
+}
+
+.boton1{
+    margin-left: 465px;
+    width: 87px;
+
+}
+.boton2{
+    
+    width: 87px;
+
+}
+.img1{
+
+    width: 1000px;
+    height: 250px;
+    margin-left: 175px;
+    margin-top: 30px;
+
+}
+.img2{
+
+    width: 1000px;
+    height: 250px;
+    margin-left: 175px;
+    margin-top: 30px;
+
+}
+
+.centrar{
+    margin-left: 500px;
+    color: rgb(79, 177, 23);
+}
+
+.Descripcion{
+    width: 100%;
+    display: flex;
+}
+
+.img3{
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 150px;
+    border: 3px solid rgb(79, 177, 23);
+    border-radius: 10px;
+}
+
+.detalle{
+    width: 50%;
+    margin-top: 100px;
+    margin-right: 150px;
+    border: 3px solid rgb(79, 177, 23);
+    border-radius: 10px;
+}
+
+.form{
+    margin-left:250 ;
+    font-size: 20px;
+    width: 50%;
+}
+
